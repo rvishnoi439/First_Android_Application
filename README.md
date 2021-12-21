@@ -4,7 +4,7 @@
 
 Submitted by: **Rahul Vishnoi**
 
-Time spent: **20** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
